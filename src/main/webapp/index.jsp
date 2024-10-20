@@ -5,7 +5,7 @@
     <title>Simple JSP Example</title>
     <style>
         body {
-            background-color: lightblue; /* Change this color as needed */
+            background-color: lightpink; /* Change this color as needed */
             color: black;
             font-family: Arial, sans-serif;
             text-align: center;
